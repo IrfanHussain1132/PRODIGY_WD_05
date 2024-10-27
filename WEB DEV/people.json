@@ -1,0 +1,24 @@
+[{
+    "names":"irfan",
+    "age":30,
+    "isemp":true,
+    "hobbies":["reading","writing"]
+},
+{
+    "names":"hussain",
+    "age":18,
+    "isemp":false,
+    "hobbies":["smoking","wdrinking"]
+},
+{
+    "names":"sandy",
+    "age":22,
+    "isemp":true,
+    "hobbies":["fucking","writing"]
+},
+{
+    "names":"mandy",
+    "age":12,
+    "isemp":false,
+    "hobbies":["jerking","hacking"]
+}]
